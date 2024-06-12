@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dariusz Huk - Software Engineer on Dariusz Huk</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Dariusz Huk - Software Engineer on Dariusz Huk</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Jun 2024 10:53:33 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Sat, 01 Jun 2024 10:53:33 +0100</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>Feel free to reach out to me for collaboration opportunities, project inquiries, or just to connect via LinkedIn!&#xA;Thank you for visiting my website. I look forward to connecting with you!</description>
+    </item>
+    <item>
+      <title>Experience</title>
+      <link>http://localhost:1313/experience/</link>
+      <pubDate>Sat, 01 Jun 2024 10:53:33 +0100</pubDate>
+      <guid>http://localhost:1313/experience/</guid>
+      <description>Staff Engineer at Cushon Duration: 2022 – Present&#xA;Responsibilities:&#xA;Develop and maintain web applications using React and Node.js. Collaborate with cross-functional teams to define, design, and ship new features. Optimize application performance and scalability. Implement CI/CD pipelines using Jenkins and Docker. Technologies: PHP7, PHP8, MySQL, DynamoDb, Redis, Yii1, Yii2, Symfony 6, Codeception, phpunit, Golang, Docker, AWS&#xA;Senior Developer at Cushon Duration: 2019 – 2022&#xA;Responsibilities:&#xA;Develop and maintain web applications using React and Node.</description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>http://localhost:1313/projects/</link>
+      <pubDate>Sat, 01 Jun 2024 10:53:33 +0100</pubDate>
+      <guid>http://localhost:1313/projects/</guid>
+      <description>Migration Engine @Cushon Description: Developed a full-featured e-commerce platform using React for the front end and Node.js for the back end, with MongoDB as the database. Implemented features like product listings, user authentication, shopping cart, and payment integration.&#xA;Technologies: React, Node.js, MongoDB, Stripe API&#xA;IAM System @Cushon Description: Developed a full-featured e-commerce platform using React for the front end and Node.js for the back end, with MongoDB as the database. Implemented features like product listings, user authentication, shopping cart, and payment integration.</description>
+    </item>
+    <item>
+      <title>Skills</title>
+      <link>http://localhost:1313/skills/</link>
+      <pubDate>Sat, 01 Jun 2024 10:53:33 +0100</pubDate>
+      <guid>http://localhost:1313/skills/</guid>
+      <description>In my career so far, I have used multiple programming languages, technologies and tools. Below is a list of some of them.&#xA;Bear in mind, some of those I may have used in the past and may not be proficient currently. I still think it&amp;rsquo;s useful to mention them to highlight the fact, that I am able to pick up different languages and technologies with relative ease.&#xA;Programming Languages PHP:</description>
+    </item>
+  </channel>
+</rss>
