@@ -16,6 +16,6 @@ functional software. I am dedicated to continuous learning and staying updated w
 
 I hold a bachelor's degree in Computing & IT and Business from The Open University, and I keep my skills sharp through
 ongoing professional development. In my spare time, I enjoy playing one of my guitars or being active playing tennis,
-basketball or spend time with my family.
+basketball or spending time with my family.
 
 I look forward to applying my skills in a dynamic organization that values practical solutions and innovation.
