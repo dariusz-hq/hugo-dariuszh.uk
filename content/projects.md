@@ -4,26 +4,25 @@ date = 2024-06-01T10:53:33+01:00
 draft = false
 +++
 
-## Migration Engine
+## Migration Tool
 
-**Description:** Developed a full-featured e-commerce platform using React for the front end and Node.js for the back
-end, with MongoDB as the database. Implemented features like product listings, user authentication, shopping cart, and
-payment integration.  
-**Technologies:** React, Node.js, MongoDB, Stripe API
+**Description:** As a lead engineer engaged in building a multi-staged migration system, allowing migration of thousands
+of users and their data from external technology platforms to the company one. This tool was a contributing factor to
+the company becoming a pioneer in their industry.
+**Technologies:** PHP, Yii2, Yii1, MySQL, AWS (SQS, Lambda, Elastic Beanstalk, S3)
 
 ## IAM System
 
-**Description:** Developed a full-featured e-commerce platform using React for the front end and Node.js for the back
-end, with MongoDB as the database. Implemented features like product listings, user authentication, shopping cart, and
-payment integration.  
-**Technologies:** PHP
+**Description:** Developed an IAM system used by the company's APIs that allowed granular customization of permissions
+to specific API resources for different types of clients
+**Technologies:** PHP, Yii2
 
 ## Employer Portal MVP
 
 **Description:** Built an MVP designed to enable employers to manage their employees' payroll contributions.
 This included front-end application, APIs and all back-end processes (e.g. enrolments, payment of contributions,
-opt-outs etc.) Although the front-end has been re-designed and rewritten using NextJS, the APIs 
-**Technologies:** React, Material Design, PHP, Yii2, MySQL
+opt-outs etc.)
+**Technologies:** React, Material Design, PHP, Yii2, MySQL, AWS (SQS, Lambda, Elastic Beanstalk, S3)
 
 ## OAuth2 Authentication
 
@@ -42,7 +41,7 @@ provide ISA benefits to their employees
 
 **Description:** Developed a RESTful API to support company's mobile app and other future integrations,
 decommission legacy API and enable faster development.
-**Technologies:** PHP, Yii1, Yii2, MySQL, Swagger
+**Technologies:** PHP, Yii1, Yii2, MySQL, Swagger, Apache
 
 ## E-Commerce Platform
 
