@@ -8,7 +8,7 @@ draft = false
 
 **Description:** As a lead engineer engaged in building a multi-staged migration system, allowing migration of thousands
 of users and their data from external technology platforms to the company one. This tool was a contributing factor to
-the company becoming a pioneer in their industry.
+the company becoming a pioneer in their industry.  
 **Technologies:** PHP, Yii2, Yii1, MySQL, AWS (SQS, Lambda, Elastic Beanstalk, S3)
 
 ## IAM System
