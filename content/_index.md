@@ -9,8 +9,9 @@ Hello, I'm Dariusz and welcome to my personal website!
 I am a Software Engineer with over 10 years of experience in designing, developing, and implementing software
 solutions. I work with a range of programming languages and technologies to create reliable and scalable applications.
 
-My experience covers various projects, from web applications to enterprise systems. I enjoy solving technical
-challenges and improving user experiences through thoughtful software design.
+My experience covers various projects, from small internal web applications, embeddable widgets, APIs and large
+back-office web applications and batch job processors. I enjoy solving technical challenges and improving user
+experiences through thoughtful software design.
 I collaborate well with cross-functional teams, ensuring that business requirements are clearly translated into
 functional software. I am dedicated to continuous learning and staying updated with the latest industry trends.
 
