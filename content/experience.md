@@ -9,10 +9,12 @@ draft = false
 **Duration:** 2022 – Present  
 **Responsibilities:**
 
-* Develop and maintain web applications using React and Node.js.
-  Collaborate with cross-functional teams to define, design, and ship new features.
-  Optimize application performance and scalability.
-  Implement CI/CD pipelines using Jenkins and Docker.
+* Acting as a subject-matter expert in multiple domains / areas of the system
+* Helping to define and guide architecture of the system
+* Leading and managing engineering teams, including hiring and performance reviews
+* Mentoring more junior engineers, providing technical guidance and career development support
+* Troubleshooting and resolving critical issues and responding to critical/high priority incidents
+* Contributing to strategic planning and decision-making for technology direction
 
 **Technologies:** PHP7, PHP8, MySQL, DynamoDb, Redis, Yii1, Yii2, Symfony 6, Codeception, phpunit, Golang, Docker, AWS
 
@@ -21,10 +23,13 @@ draft = false
 **Duration:** 2019 – 2022  
 **Responsibilities:**
 
-* Develop and maintain web applications using React and Node.js.
-  Collaborate with cross-functional teams to define, design, and ship new features.
-  Optimize application performance and scalability.
-  Implement CI/CD pipelines using Jenkins and Docker.
+* Participating and leading design and development of high-impact areas of the system
+* Troubleshooting and resolving critical issues and responding to critical/high priority incidents
+* Participating in establishing of coding standards and best practices
+* Introducing new technologies, tools and methodologies to improve the development process
+* Participating and overseeing code reviews to assure coding best practices and standards are adhered to
+* Providing guidance and mentorship to more junior engineers
+* Close collaboration with CTO and CEO of the company and other internal stakeholders
 
 **Technologies:** PHP5, PHP7, MySQL, Yii1, Yii2, Codeception, phpunit, JavaScript, TypeScript, React, CircleCi, Docker,
 AWS
