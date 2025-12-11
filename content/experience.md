@@ -9,21 +9,21 @@ draft = false
 **Duration:** 2022 – Present  
 **Key Responsibilities & Achievements:**
 
-* Researched and implemented centralized authentication and authorization layer using cloud infrastructure, enabling
+* Researched and implemented centralized authentication and authorisation layer using cloud infrastructure, enabling
   development of new services without re-engineering authentication mechanisms
 * Led technical planning and risk assessment for database migrations affecting production trading systems, developing
   rollout strategies and coordinating cross-functional stakeholders
 * Maintained trading platform stability and served as domain expert during period of 100x growth
 * Took ownership of customer migration from another platform, successfully migrating
   tens of thousands of customers and their holdings in regulated financial environment
-* Led platform modernization initiatives supporting compliance and performance requirements for regulated fintech
+* Led platform modernisation initiatives supporting compliance and performance requirements for regulated fintech
   environment
 * Mentored engineers to team lead and senior engineer positions, conducted final-round technical interviews, and
   contributed to establishing engineering standards
 * Managed critical incidents including trading platform outages and security events, implementing monitoring and
   alerting improvements
 
-**Technologies:** Backend frameworks, relational and NoSQL databases, cloud infrastructure (AWS), containerization
+**Technologies:** Backend frameworks, relational and NoSQL databases, cloud infrastructure (AWS), containerisation
 
 ## Senior Developer @Cushon
 
@@ -36,9 +36,9 @@ draft = false
   contributions, enrollments, and opt-outs
 * Designed and implemented IAM system with granular API resource permissions for secure first-party integrations and
   mobile app support
-* Led OAuth2 authentication implementation (authorization code with PKCE) for mobile app and external integrations
+* Led OAuth2 authentication implementation (authorisation code with PKCE) for mobile app and external integrations
 * Developed RESTful API to replace legacy systems, accelerating mobile app development and future integrations
-* Drove platform modernization: backend framework upgrades, containerization, database upgrades, established testing
+* Drove platform modernisation: backend framework upgrades, containerisation, database upgrades, established testing
   framework standards
 * Participated in code reviews, contributed to establishing coding standards, and mentored junior engineers
 
