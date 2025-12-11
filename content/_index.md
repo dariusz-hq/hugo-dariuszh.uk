@@ -1,22 +1,27 @@
 +++
 title = 'Dariusz Huk - Software Engineer'
-date = 2024-06-01T10:53:33+01:00
+date = 2025-12-11T23:33:33+00:00
 draft = false
 featured_image = '/images/Bright-Binary.jpg'
 +++
-Hello, I'm Dariusz and welcome to my personal website!
 
-I am a Software Engineer with over 10 years of experience in designing, developing, and implementing software
-solutions. I work with a range of programming languages and technologies to create reliable and scalable applications.
+Hello, I'm Dariusz and welcome to my personal website!  
 
-My experience covers various projects, from small internal web applications, embeddable widgets, APIs and large
-back-office web applications and batch job processors. I enjoy solving technical challenges and improving user
-experiences through thoughtful software design.
-I collaborate well with cross-functional teams, ensuring that business requirements are clearly translated into
-functional software. I am dedicated to continuous learning and staying updated with the latest industry trends.
+I'm a Staff Engineer with over 10 years of experience building and scaling fintech systems. I've worked across the full
+stack—from architecting backend services to developing modern frontend applications—delivering solutions that serve
+hundreds of thousands of users and handle billions in assets.  
 
-I hold a bachelor's degree in Computing & IT and Business from The Open University, and I keep my skills sharp through
-ongoing professional development. In my spare time, I enjoy playing one of my guitars or being active playing tennis,
-basketball or spending time with my family.
+My experience spans system architecture, technical leadership, and hands-on development in highly regulated
+environments. I've led initiatives including platform migrations, OAuth2 authentication systems, RESTful APIs, and
+employer portals. I'm skilled at both building greenfield projects and modernizing legacy systems, having driven major
+upgrades across PHP versions, containerization, and database platforms.  
 
-I look forward to applying my skills in a dynamic organization that values practical solutions and innovation.
+I work primarily with PHP, JavaScript/TypeScript, React, and AWS infrastructure, with growing experience in Go. Beyond
+coding, I mentor engineers, establish technical standards, and collaborate with cross-functional teams to translate
+business requirements into scalable technical solutions.  
+
+I hold a bachelor's degree in Computing & IT and Business from The Open University and stay current through continuous
+learning. When I'm not coding, you'll find me playing guitar, on the tennis or basketball court, or spending time with
+my family.  
+
+I'm interested in opportunities that value practical solutions, technical excellence, and continuous innovation.

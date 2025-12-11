@@ -1,75 +1,82 @@
 +++
 title = 'Experience'
-date = 2024-06-01T10:53:33+01:00
+date = 2025-12-11T23:33:33+00:00
 draft = false
 +++
 
 ## Staff Engineer @Cushon
 
 **Duration:** 2022 – Present  
-**Responsibilities:**
+**Key Responsibilities & Achievements:**
 
-* Acting as a subject-matter expert in multiple domains / areas of the system
-* Helping to define and guide architecture of the system
-* Leading and managing engineering teams, including hiring and performance reviews
-* Mentoring more junior engineers, providing technical guidance and career development support
-* Troubleshooting and resolving critical issues and responding to critical/high priority incidents
-* Contributing to strategic planning and decision-making for technology direction
+* Researched and implemented centralized authentication and authorization layer using cloud infrastructure, enabling
+  development of new services without re-engineering authentication mechanisms
+* Led technical planning and risk assessment for database migrations affecting production trading systems, developing
+  rollout strategies and coordinating cross-functional stakeholders
+* Maintained trading platform stability and served as domain expert during period of 100x growth
+* Took ownership of customer migration from another platform, successfully migrating
+  tens of thousands of customers and their holdings in regulated financial environment
+* Led platform modernization initiatives supporting compliance and performance requirements for regulated fintech
+  environment
+* Mentored engineers to team lead and senior engineer positions, conducted final-round technical interviews, and
+  contributed to establishing engineering standards
+* Managed critical incidents including trading platform outages and security events, implementing monitoring and
+  alerting improvements
 
-**Technologies:** PHP7, PHP8, MySQL, DynamoDb, Redis, Yii1, Yii2, Symfony 6, Codeception, phpunit, Golang, Docker, AWS
+**Technologies:** Backend frameworks, relational and NoSQL databases, cloud infrastructure (AWS), containerization
 
 ## Senior Developer @Cushon
 
 **Duration:** 2019 – 2022  
-**Responsibilities:**
+**Key Responsibilities & Achievements:**
 
-* Participating and leading design and development of high-impact areas of the system
-* Troubleshooting and resolving critical issues and responding to critical/high priority incidents
-* Participating in establishing of coding standards and best practices
-* Introducing new technologies, tools and methodologies to improve the development process
-* Participating and overseeing code reviews to assure coding best practices and standards are adhered to
-* Providing guidance and mentorship to more junior engineers
-* Close collaboration with CTO and CEO of the company and other internal stakeholders
+* Built multi-staged migration system enabling transfer of thousands of users from external platforms, accelerating
+  company growth and member acquisition
+* Built employer portal MVP from ground up including frontend (React), APIs, and backend processes for payroll
+  contributions, enrollments, and opt-outs
+* Designed and implemented IAM system with granular API resource permissions for secure first-party integrations and
+  mobile app support
+* Led OAuth2 authentication implementation (authorization code with PKCE) for mobile app and external integrations
+* Developed RESTful API to replace legacy systems, accelerating mobile app development and future integrations
+* Drove platform modernization: backend framework upgrades, containerization, database upgrades, established testing
+  framework standards
+* Participated in code reviews, contributed to establishing coding standards, and mentored junior engineers
 
-**Technologies:** PHP5, PHP7, MySQL, Yii1, Yii2, Codeception, phpunit, JavaScript, TypeScript, React, CircleCi, Docker,
-AWS
+**Technologies:** Backend frameworks, MySQL, JavaScript, TypeScript, React, CI/CD, Docker, AWS
 
 ## Senior Software Developer @GForces (currently ATG)
 
 **Duration:** 2017 – 2019  
-**Responsibilities:**
+**Key Responsibilities & Achievements:**
 
-* Maintenance of existing and development of new software applications
-* Participating in code reviews to assure coding best practices and standards are adhered to
-* Providing guidance and mentorship to more junior engineers
-* Participating in system architecture and design discussions
-* Taking ownership of different projects and providing technical leadership
-* Collaboration and communication with multiple internal stakeholders
+* Led development of service booking software for major car manufacturer, launched across multiple global markets (UK, South
+  Africa, Australia, India)
+* Created reusable AngularJS application skeleton used across multiple automotive booking products
+* Took ownership of projects providing technical leadership and architectural guidance
+* Mentored junior developers and participated in establishing code review practices and coding standards
+* Collaborated with multiple internal stakeholders on system architecture and design
 
-**Technologies:** PHP5, PHP7, MySQL, Zend 1 & 2, Yii1, Yii2, Codeception, Javascript, AngularJS, Angular, ngrx, RxJS,
+**Technologies:** PHP5, PHP7, MySQL, Zend 1 & 2, Yii1, Yii2, Codeception, JavaScript, AngularJS, Angular, ngrx, RxJS,
 NodeJS, AWS
 
 ## Software Developer @GForces (currently ATG)
 
 **Duration:** 2015 – 2017  
-**Responsibilities:**
+**Key Responsibilities:**
 
-* Maintenance of existing and development of new software applications
-* Identifying and fixing bugs and issues
-* Participating in code reviews to learn best practices and coding standards
-* Working closely with other team members to complete required deliverables on time
+* Developed and maintained web applications for automotive industry clients
+* Identified and fixed bugs, participated in code reviews
+* Worked closely with team members to complete deliverables on time
 
-**Technologies:** PHP5, MySQL, Zend 1 & 2, Yii1, Yii2, Codeception, Javascript, AngularJS, NodeJS, AWS
+**Technologies:** PHP5, MySQL, Zend 1 & 2, Yii1, Yii2, Codeception, JavaScript, AngularJS, NodeJS, AWS
 
 ## Web Developer @SBE
 
 **Duration:** 2013 – 2015  
-**Responsibilities:**
+**Key Responsibilities & Achievements:**
 
-* Development of internal and external web applications using a range of technologies
-* Working to meet very high standards and timelines expected by high-profile external clients such as mainstream brands
-  like
-  HTC or well-respected insurance companies such as Domestic & General
-* Liaising with internal stakeholders to establish requirements for new features and applications
+* Delivered web applications for high-profile clients including HTC and Domestic & General
+* Created solutions including SSO systems and staff management portals that improved operational efficiency
+* Liaised with internal stakeholders to establish requirements for new features and applications
 
 **Technologies:** PHP5, ActionScript3, Adobe Flex, AngularJS, Oracle
