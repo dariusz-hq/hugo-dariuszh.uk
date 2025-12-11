@@ -1,11 +1,5 @@
 +++
 title = 'Projects'
-date = 2024-06-01T10:53:33+01:00
-draft = false
-+++
-
-+++
-title = 'Projects'
 date = 2025-12-11T23:33:33+00:00
 draft = false
 +++
