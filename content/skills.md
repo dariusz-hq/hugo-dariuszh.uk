@@ -20,6 +20,8 @@ Throughout my career, I've worked with a wide range of programming languages, fr
 
 **ActionScript 3:** Historical experience from earlier career projects working with Adobe Flex
 
+---
+
 ### Backend Frameworks & Tools
 
 **PHP Frameworks:** Yii1, Yii2, Symfony 6, Zend Framework (1 & 2), Slim
@@ -27,6 +29,8 @@ Throughout my career, I've worked with a wide range of programming languages, fr
 **Testing:** Codeception, PHPUnit, Test-Driven Development (TDD), Behaviour-Driven Development (BDD)
 
 **API Development:** RESTful API design, OAuth2 implementation, API security and authentication
+
+---
 
 ### Frontend Technologies
 
@@ -40,6 +44,8 @@ Throughout my career, I've worked with a wide range of programming languages, fr
 
 **Build Tools:** Webpack, Gulp, Browserify, NPM
 
+---
+
 ### Databases & Data Stores
 
 **Relational:** MySQL (5.6-5.7), query optimization, schema migrations
@@ -47,6 +53,8 @@ Throughout my career, I've worked with a wide range of programming languages, fr
 **NoSQL:** DynamoDB, MongoDB for document storage
 
 **Caching & Search:** Redis, Elasticsearch
+
+---
 
 ### Cloud & Infrastructure
 
@@ -59,6 +67,8 @@ Throughout my career, I've worked with a wide range of programming languages, fr
 **Version Control:** Git, GitHub, Bitbucket, GitFlow workflow
 
 **Build Tools:** Make, automated build processes
+
+---
 
 ### Architecture & Practices
 
@@ -75,6 +85,8 @@ Throughout my career, I've worked with a wide range of programming languages, fr
 **Performance:** Query optimization, caching strategies, system performance tuning
 
 **Monitoring:** Application monitoring, incident response, alerting systems
+
+---
 
 ### Domain Expertise
 
