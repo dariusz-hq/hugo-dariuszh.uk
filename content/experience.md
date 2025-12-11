@@ -44,7 +44,7 @@ draft = false
 
 **Technologies:** Backend frameworks, MySQL, JavaScript, TypeScript, React, CI/CD, Docker, AWS
 
-## Senior Software Developer @GForces (currently ATG)
+## Senior Software Developer @GForces (currently ATG/Keyloop)
 
 **Duration:** 2017 – 2019  
 **Key Responsibilities & Achievements:**
@@ -59,7 +59,7 @@ draft = false
 **Technologies:** PHP5, PHP7, MySQL, Zend 1 & 2, Yii1, Yii2, Codeception, JavaScript, AngularJS, Angular, ngrx, RxJS,
 NodeJS, AWS
 
-## Software Developer @GForces (currently ATG)
+## Software Developer @GForces (currently ATG/Keyloop)
 
 **Duration:** 2015 – 2017  
 **Key Responsibilities:**
